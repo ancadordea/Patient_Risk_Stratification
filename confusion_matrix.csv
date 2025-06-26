@@ -1,0 +1,10 @@
+"Prediction","Reference","Freq"
+"Low","Low",12
+"Medium","Low",6
+"High","Low",0
+"Low","Medium",0
+"Medium","Medium",32
+"High","Medium",0
+"Low","High",0
+"Medium","High",1
+"High","High",9
